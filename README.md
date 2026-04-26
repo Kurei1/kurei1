@@ -50,7 +50,7 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
           <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
           <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-          <img src="https://img.shields.io/badge/Minecraft_Modding-62AE35?style=flat-square&logo=minecraft&logoColor=white" />
+          <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
         </p>
       </td>
       <td width="50%" valign="top" style="border: none;">
