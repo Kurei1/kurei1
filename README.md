@@ -4,7 +4,7 @@
   <br/>
 
   <p align="center">
-    <font size="7" face="Fira Code">Your favorite</font>
+    <font size="12" face="Fira Code">Your favorite</font>
   </p>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Security+Researcher;Gamer;Editor;Streamer" alt="Typing SVG" /></a>
@@ -50,7 +50,7 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
           <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
           <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-          <img src="https://img.shields.io/badge/Minecraft_Modding-62AE35?style=flat-square&logo=minecraft&logoColor=white" />
+          <img src="https://img.shields.io/badge/Game_Modding-62AE35?style=flat-square&logo=minecraft&logoColor=white" />
         </p>
       </td>
       <td width="50%" valign="top" style="border: none;">
