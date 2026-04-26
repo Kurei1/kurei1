@@ -2,14 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20KUREI&descAlignY=51&descAlign=62" width="100%"/>
   
   <br/>
-  
+
+  <p align="center">
+    <font size="5" face="Fira Code">Your favorite</font>
+  </p>
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Electromechanical+Engineer;Full+Stack+Developer;Streamer+%26+Content+Creator;Lucid+Dream+Controller" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
   <br/>
   <a href="https://github.com/kurei1">
-    <img src="https://img.shields.io/badge/User-Kurei1-blueviolet?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/User-KUREI-blueviolet?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://youtube.com/@kurei">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
@@ -27,7 +31,7 @@
       <td width="50%" valign="top" style="border: none;">
         <h2 align="center">👋 About Me</h2>
         <p>
-          I'm <b>Kurei Mori</b>, an Electromechanical Engineering student at the <b>University of Constantine 1</b> 🇩🇿. 
+          I'm <b>KUREI</b>, an Electromechanical Engineering student at the <b>University of Constantine 1</b> 🇩🇿. 
           I bridge the gap between hardware and software, from circuit design to full-stack application development.
         </p>
         <p>
