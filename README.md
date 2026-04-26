@@ -7,7 +7,7 @@
     <font size="5" face="Fira Code">Your favorite</font>
   </p>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Electromechanical+Engineer;Security+Researcher;Minecraft+Mod+Creator;Gamer+%26+Streamer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Electromechanical+Engineer;Full+Stack+Developer;Streamer+%26+Content+Creator;Lucid+Dream+Controller" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -32,27 +32,29 @@
         <h2 align="center">👋 About Me</h2>
         <p>
           I'm <b>KUREI</b>, an Electromechanical Engineering student at the <b>University of Constantine 1</b> 🇩🇿. 
-          I’m a <b>Vibe Coder</b> and <b>Security Researcher</b> who enjoys breaking and building things in equal measure.
+          I bridge the gap between hardware and software, from circuit design to full-stack application development.
         </p>
         <p>
-          🔭 <b>Current Project:</b> <b>AudioSync</b> – Stream audio across devices.<br/>
-          🎮 <b>Modding:</b> Creating <b>Her AI</b> for Minecraft.<br/>
-          🎬 <b>Creative:</b> Video editing and 3D motion design.<br/>
-          ⚡ <b>Fun Fact:</b> I'm a lucid dream controller.
+          🔭 <b>Working on:</b> <b>AudioSync</b> – High-fidelity audio streaming over LAN/BT/USB.<br/>
+          🌱 <b>Learning:</b> Advanced Robotics & AI-driven Modding.<br/>
+          👯 <b>Developing:</b> <b>Manga Kurei</b> – A digital hub for reading and discovery.<br/>
+          ⚡ <b>Fun Fact:</b> I build AI entities for Minecraft to see if they can outsmart me.
         </p>
         <h3 align="center">🛠 Tech Stack</h3>
         <p align="center">
-          <b>Development & Engineering</b><br/>
-          <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-          <img src="https://img.shields.io/badge/MATLAB-ED6B00?style=flat-square&logo=mathworks&logoColor=white" />
+          <b>Languages</b><br/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
           <br/>
-          <b>Creative & Design</b><br/>
-          <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-          <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-          <img src="https://img.shields.io/badge/Minecraft_Modding-62AE35?style=flat-square&logo=minecraft&logoColor=white" />
+          <b>Frameworks & Tools</b><br/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         </p>
       </td>
       <td width="50%" valign="top" style="border: none;">
