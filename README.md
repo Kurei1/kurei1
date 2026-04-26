@@ -34,7 +34,8 @@
           Yo! I'm <b>KUREI</b>. I'm a Vibe Coder who enjoys exploring new technologies and turning creative ideas into reality.
         </p>
         <p align="left">
-          ✨ <b>Gaming:</b> Valorant • Hollow Knight • Open World<br/>
+          More about me? Sure, I love:<br/><br/>
+          🎮 <b>Gaming:</b> Valorant • Hollow Knight • Other Games<br/>
           📺 <b>Anime:</b> AOT • JJK • Re:Zero<br/>
           🎬 <b>Series:</b> Dark • Mouse • Game of Thrones<br/>
           🎥 <b>Movies:</b> Interstellar • Your Name • IWTEYP<br/>
