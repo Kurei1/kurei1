@@ -28,10 +28,17 @@
 <div align="center">
   <table style="border: none; background-color: transparent;">
     <tr>
-      <td width="50%" valign="top" style="border: none;">
+      <td width="55%" valign="top" style="border: none;">
         <h2 align="center">👋 About Me</h2>
-        <p align="center">
-          I'm <b>KUREI</b>. I'm a Vibe Coder, Security Researcher, and Streamer. I specialize in creative modding and engineering solutions.
+        <p align="left">
+          Yo! I'm <b>KUREI</b>. I'm a Vibe Coder who enjoys exploring new technologies and turning creative ideas into reality.
+        </p>
+        <p align="left">
+          ✨ <b>Gaming:</b> Valorant • Hollow Knight • Open World<br/>
+          📺 <b>Anime:</b> AOT • JJK • Re:Zero<br/>
+          🎬 <b>Series:</b> Dark • Mouse • Game of Thrones<br/>
+          🎥 <b>Movies:</b> Interstellar • Your Name • IWTEYP<br/>
+          📖 <b>Reading:</b> Manga • Manhwa • Light Novels
         </p>
         <h3 align="center">🛠 Tech Stack</h3>
         <p align="center">
@@ -62,7 +69,7 @@
           <img src="https://img.shields.io/badge/IntelliJ_IDEA-FE315F?style=flat-square&logo=intellij-idea&logoColor=white" />
         </p>
       </td>
-      <td width="50%" valign="top" style="border: none;">
+      <td width="45%" valign="top" style="border: none;">
         <h2 align="center">📈 GitHub Stats</h2>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=kurei1&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei stats" width="100%" />
