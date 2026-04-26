@@ -44,7 +44,7 @@
           <br/>
           <img src="https://img.shields.io/badge/Antigravity-33CCFF?style=flat-square&logoColor=white" />
           <br/>
-          <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+          <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
           <img src="https://img.shields.io/badge/MATLAB-ED6B00?style=flat-square&logo=mathworks&logoColor=white" />
           <br/>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
