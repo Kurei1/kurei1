@@ -7,7 +7,7 @@
     <font size="5" face="Fira Code">Your favorite</font>
   </p>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Security+Researcher;Gamer;Editor;Streamer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Electromechanical+Engineer;Security+Researcher;Minecraft+Mod+Creator;Gamer+%26+Streamer" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -30,14 +30,26 @@
     <tr>
       <td width="50%" valign="top" style="border: none;">
         <h2 align="center">👋 About Me</h2>
-        <p align="center">
-          I'm <b>KUREI</b>. I'm a Vibe Coder, Security Researcher, and Streamer. I specialize in creative modding and engineering solutions.
+        <p>
+          I'm <b>KUREI</b>, an Electromechanical Engineering student at the <b>University of Constantine 1</b> 🇩🇿. 
+          I’m a <b>Vibe Coder</b> and <b>Security Researcher</b> who enjoys breaking and building things in equal measure.
+        </p>
+        <p>
+          🔭 <b>Current Project:</b> <b>AudioSync</b> – Stream audio across devices.<br/>
+          🎮 <b>Modding:</b> Creating <b>Her AI</b> for Minecraft.<br/>
+          🎬 <b>Creative:</b> Video editing and 3D motion design.<br/>
+          ⚡ <b>Fun Fact:</b> I'm a lucid dream controller.
         </p>
         <h3 align="center">🛠 Tech Stack</h3>
         <p align="center">
+          <b>Development & Engineering</b><br/>
           <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
           <img src="https://img.shields.io/badge/MATLAB-ED6B00?style=flat-square&logo=mathworks&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+          <br/>
+          <b>Creative & Design</b><br/>
           <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
           <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
           <img src="https://img.shields.io/badge/Minecraft_Modding-62AE35?style=flat-square&logo=minecraft&logoColor=white" />
