@@ -4,7 +4,7 @@
   <br/>
 
   <p align="center">
-    <font size="6" face="Fira Code">Your favorite</font>
+    <font size="7" face="Fira Code">Your favorite</font>
   </p>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Security+Researcher;Gamer;Editor;Streamer" alt="Typing SVG" /></a>
@@ -39,10 +39,10 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
           <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-          <br/>
+          <br/><br/>
           <b>Engineering & Creative Tools</b><br/>
           <br/>
-          <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=antigravity&logoColor=white" />
+          <img src="https://img.shields.io/badge/Antigravity-33CCFF?style=flat-square&logoColor=white" />
           <br/>
           <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
           <img src="https://img.shields.io/badge/MATLAB-ED6B00?style=flat-square&logo=mathworks&logoColor=white" />
