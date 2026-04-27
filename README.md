@@ -95,5 +95,26 @@
 <br/>
 
 <div align="center">
+  <h2 align="center">💖 Support & Donations</h2>
+  <p>If you find my work helpful, consider supporting me!</p>
+  
+  <a href="https://tonapi.io/account/UQD6_TSUxYQGQMTlvH_ubm-xxfxlQiGmjC6yvlHhzH9LyuUK">
+    <img src="https://img.shields.io/badge/Donate-TON-0088CC?style=for-the-badge&logo=ton&logoColor=white" alt="Donate TON" />
+  </a>
+  <br/>
+  <code>UQD6_TSUxYQGQMTlvH_ubm-xxfxlQiGmjC6yvlHhzH9LyuUK</code>
+  <br/><br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=UQD6_TSUxYQGQMTlvH_ubm-xxfxlQiGmjC6yvlHhzH9LyuUK" alt="TON QR Code" width="120" />
+  
+  <br/><br/>
+  
+  <a href="https://www.buymeacoffee.com/kurei">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=kurei1&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </div>
