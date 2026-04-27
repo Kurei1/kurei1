@@ -96,7 +96,11 @@
 
 <div align="center">
   <h2 align="center">💖 Support & Donations</h2>
-  <p>Coming soon! I'm setting up my local support channels.</p>
+  <p>If you find my work helpful, consider supporting me!</p>
+  <p>
+    <img src="https://img.shields.io/badge/Binance_ID-763038084-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" />
+    <img src="https://img.shields.io/badge/Bybit_ID-416909609-000000?style=for-the-badge&logo=bybit&logoColor=white" />
+  </p>
 </div>
 
 <br/>
