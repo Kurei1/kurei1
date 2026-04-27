@@ -96,7 +96,7 @@
 
 <div align="center">
   <h3 align="center">🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=kurei1&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="kurei trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/github-readme-stats?username=kurei1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&show_achievements=true" alt="kurei achievements" />
 </div>
 
 <br/>
