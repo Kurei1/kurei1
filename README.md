@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%0A%0A%0A%0AI'm%20KUREI&descAlignY=51&descAlign=true" width="100%"/>
-
   
   <br/>
 
   <p align="center">
-  <font size="7" face="Fira Code"><b>Your favorite</b></font>
-</p>
+    <font size="7" face="Fira Code"><b>Your favorite</b></font>
+  </p>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Bug+Hunter;Gamer;Editor;Streamer" alt="Typing SVG" /></a>
 </div>
@@ -97,12 +96,7 @@
 
 <div align="center">
   <h3 align="center">🏆 GitHub Achievements</h3>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="pull shark" width="80">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="yolo" width="80">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="quickdraw" width="80">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="pair extraordinaire" width="80">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="starstruck" width="80">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="galaxy brain" width="80">
+  <img src="https://github-profile-trophy.vercel.app/?username=kurei1&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="kurei trophies" />
 </div>
 
 <br/>
