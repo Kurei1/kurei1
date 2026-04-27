@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20KUREI&descAlignY=51&descAlign=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%0A%0AI'm%20KUREI&descAlignY=51&descAlign=true" width="100%"/>
   
   <br/>
 
@@ -13,13 +13,19 @@
 <div align="center">
   <br/>
   <a href="https://github.com/kurei1">
-    <img src="https://img.shields.io/badge/User-KUREI-blueviolet?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Kurei1-blueviolet?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://youtube.com/@kurei">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
+  <a href="https://instagram.com/kurei.111">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://kick.com/kurei">
-    <img src="https://img.shields.io/badge/Kick-Follow-05FF12?style=for-the-badge&logo=kick&logoColor=black"/>
+  <a href="https://tiktok.com/@voi1.d">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/kure.i">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:kureibuss@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
