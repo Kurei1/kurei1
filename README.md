@@ -8,7 +8,7 @@
   <font size="7" face="Fira Code"><b>Your favorite</b></font>
 </p>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Security+Researcher;Gamer;Editor;Streamer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Bug+Hunter;Gamer;Editor;Streamer" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
