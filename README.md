@@ -40,7 +40,7 @@
       <td width="55%" valign="top" style="border: none;">
         <h2 align="center">👋 About Me</h2>
         <p align="left">
-          Yo! I'm <b>KUREI</b>. I'm a Vibe Coder who enjoys exploring new technologies and turning creative ideas into reality.
+          Yo! I'm <b>KUREI</b> from Algerai 🇩🇿. I'm a Vibe Coder who enjoys exploring new technologies and turning creative ideas into reality.
         </p>
         <p align="left">
           More about me? Sure, I love:<br/><br/>
