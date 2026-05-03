@@ -40,7 +40,7 @@
       <td width="55%" valign="top" style="border: none;">
         <h2 align="center">👋 About Me</h2>
         <p align="left">
-          Yo! I'm <b>KUREI</b> from Algerai 🇩🇿. I'm a Vibe Coder who enjoys exploring new technologies and turning creative ideas into reality.
+          Yo! I'm <b>KUREI</b> from <b>Algeria</b> 🇩🇿. I'm a Vibe Coder who enjoys exploring new technologies and turning creative ideas into reality.
         </p>
         <p align="left">
           More about me? Sure, I love:<br/><br/>
@@ -82,10 +82,12 @@
       <td width="45%" valign="top" style="border: none;">
         <h2 align="center">📈 GitHub Stats</h2>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=kurei1&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei stats" width="100%" />
+          <!-- Swapped to a more stable Stats provider -->
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kurei1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei stats" width="100%" />
         </p>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurei1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei languages" width="100%" />
+          <!-- Swapped to a more stable Language provider -->
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kurei1&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei languages" width="100%" />
         </p>
       </td>
     </tr>
