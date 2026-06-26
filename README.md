@@ -100,6 +100,9 @@
   <h2 align="center">💖 Support & Donations</h2>
   <p>If you find my work helpful, consider supporting me!</p>
   <p>
+    <a href="https://creators.sa/kurei" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/PayPal-Support_Me-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support me on PayPal" />
+    </a>
     <img src="https://img.shields.io/badge/Binance_ID-763038084-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" />
     <img src="https://img.shields.io/badge/Bybit_ID-416909609-000000?style=for-the-badge&logo=bybit&logoColor=white" />
   </p>
