@@ -83,11 +83,11 @@
         <h2 align="center">📈 GitHub Stats</h2>
         <p align="center">
           <!-- Swapped to a more stable Stats provider -->
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kurei1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Kurei1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei stats" width="100%" />
         </p>
         <p align="center">
           <!-- Swapped to a more stable Language provider -->
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kurei1&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei languages" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurei1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="kurei languages" width="100%" />
         </p>
       </td>
     </tr>
