@@ -24,11 +24,11 @@
   <a href="https://discord.com/users/kure.i">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:kureibuss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:kurei.apps@proton.me">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
-  <a href="mailto:kureibuss@gmail.com">
-    <img src="https://img.shields.io/badge/kureibuss@gmail.com-333333?style=for-the-badge"/>
+  <a href="mailto:kurei.apps@proton.me">
+    <img src="https://img.shields.io/badge/kurei.apps@proton.me-333333?style=for-the-badge"/>
   </a>
 </div>
 
@@ -100,8 +100,8 @@
   <h2 align="center">💖 Support & Donations</h2>
   <p>If you find my work helpful, consider supporting me!</p>
   <p>
-    <a href="https://creators.sa/kurei" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/PayPal-Support_Me-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support me on PayPal" />
+    <a href="https://ko-fi.com/kurei1" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
     </a>
     <img src="https://img.shields.io/badge/Binance_ID-763038084-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" />
     <img src="https://img.shields.io/badge/Bybit_ID-416909609-000000?style=for-the-badge&logo=bybit&logoColor=white" />
